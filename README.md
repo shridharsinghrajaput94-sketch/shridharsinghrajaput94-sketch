@@ -43,42 +43,7 @@
 
 ---
 
-## 🧩 HTML Representation
 
-```html
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Shridharsingh Rajput</title>
-</head>
-<body>
-    <h1>Hi, I'm Shridharsingh Rajput 👋</h1>
-    
-    <h2>About Me</h2>
-    <p>
-        I am a 6th Semester CSBS student, a passionate 
-        <strong>Java Developer</strong> and an enthusiastic learner of 
-        <strong>Machine Learning</strong>.
-    </p>
-
-    <h2>Interests</h2>
-    <ul>
-        <li>Java Development</li>
-        <li>Data Structures & Algorithms</li>
-        <li>Machine Learning</li>
-        <li>Business Systems</li>
-    </ul>
-
-    <h2>Goal</h2>
-    <p>
-        To build impactful software solutions by combining programming,
-        problem-solving, and intelligent systems.
-    </p>
-</body>
-</html>
-```
-
----
 
 ## 📫 Connect With Me
 
