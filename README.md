@@ -4,7 +4,7 @@
 <h3 align="center">Computer Science and Business Systems Student | Java & DSA Enthusiast | Machine Learning Enthusiastic Learner</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Pre-Final+Year+CSBS+Student;Java+Developer;Data+Structures+Learner;Machine+Learning+Enthusiastic+Learner;Master+on+Machine+Learning" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Pre-Final+Year+CSBS+Student;Java+Developer;Data+Structures+Learner;" />
 </p>
 
 🎓 **Student | 6th Semester CSBS (Computer Science and Business Systems)**
