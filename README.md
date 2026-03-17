@@ -62,4 +62,4 @@
 
 ⭐ *"Code. Learn. Build. Repeat."*
 
-If you want, I can make it look more **professional with badges, GitHub stats, or animations**.
+
